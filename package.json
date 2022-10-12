@@ -1,0 +1,28 @@
+{
+  "name": "modo_asincrono",
+  "version": "1.0.0",
+  "description": "segunda clase javascript",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon promises/1_simple.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Draigon2003/modo_asincrono.git"
+  },
+  "keywords": [
+    "asincrono",
+    "JS",
+    "segunda"
+  ],
+  "author": "Nicolas Peraza Gamez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Draigon2003/modo_asincrono/issues"
+  },
+  "homepage": "https://github.com/Draigon2003/modo_asincro#readme",
+  "dependencies": {
+    "nodemon": "^2.0.20",
+    "request": "^2.88.2"
+  }
+}
